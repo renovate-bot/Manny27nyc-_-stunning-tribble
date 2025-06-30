@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Signer } from "@ethersproject/abstract-signer";
 import { task } from "hardhat/config";
 

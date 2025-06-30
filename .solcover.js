@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const shell = require("shelljs");
 
 // The environment variables are loaded in hardhat.config.ts
